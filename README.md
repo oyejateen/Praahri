@@ -57,12 +57,6 @@ cd Praahri
 npm install
 ```
 
-3. Set up environment variables:
-Create a .env file with:
-```
-GOOGLE_MAPS_API_KEY=your_api_key_here
-```
-
 4. Run the application:
 ```bash
 npm start
@@ -81,9 +75,6 @@ npm start
 - Internet connectivity for satellite data
 - GPS capability for location services
 
-## Contributing
-Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -92,14 +83,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - NASA for Landsat data
 - ESA for Sentinel data
 - OpenStreetMap contributors
-
-## Contact
-For any queries or support, please contact:
-- Email: [your-email]
-- GitHub: [@oyejateen](https://github.com/oyejateen)
-
-## Future Roadmap
-- Machine learning integration for automated change detection
-- Advanced pattern recognition for illegal activity prediction
-- Integration with government land monitoring systems
-- Enhanced reporting and documentation features
