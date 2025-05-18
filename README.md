@@ -1,7 +1,7 @@
 # Praahri - Advanced Land Monitoring System
 
 ## Overview
-Praahri is a cutting-edge mobile application designed for monitoring and analyzing land changes using satellite imagery and advanced remote sensing techniques. The app leverages Google Earth Engine's capabilities combined with NDVI (Normalized Difference Vegetation Index) analysis to detect potential illegal land use and vegetation changes.
+Praahri is a cutting-edge mobile application designed for monitoring and analyzing land changes using satellite imagery and advanced remote sensing techniques. The app leverages Google Earth Engine's capabilities combined with NDVI (Normalized Difference Vegetation Index) analysis to detect potential land use and vegetation changes.
 
 ## Features
 
@@ -15,7 +15,7 @@ Praahri is a cutting-edge mobile application designed for monitoring and analyzi
 - NDVI (Normalized Difference Vegetation Index) calculation
 - Temporal change detection between two time periods
 - Satellite imagery comparison
-- Automated illegal activity detection
+- Automated activity detection
 
 ### 3. Historical Tracking
 - Maintain history of all analyses
