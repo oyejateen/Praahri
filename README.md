@@ -1,7 +1,23 @@
-# Praahri - Advanced Land Monitoring System
 
-## Overview
-Praahri is a cutting-edge mobile application designed for monitoring and analyzing land changes using satellite imagery and advanced remote sensing techniques. The app leverages Google Earth Engine's capabilities combined with NDVI (Normalized Difference Vegetation Index) analysis to detect potential land use and vegetation changes.
+# **Praahri App** – Smart Land Surveillance Using Satellite Imagery
+
+## 👥 Team Members
+**Team Zuck**  
+- Jatin Narayan  
+- Kishori Arora  
+- Chhaya Ameta
+
+## ❓ Problem Statement / Objective
+Illegal land occupation and unauthorized development on vacant or government-owned plots is a growing concern. Manual inspection is costly and inefficient.  
+**Praahri** aims to provide an intelligent, scalable solution to:
+- Map land/plots using GPS location
+- Periodically check those locations using satellite images (e.g., every 15 days)
+- Detect unusual land use or changes automatically
+- Generate alerts for authorities or stakeholders
+
+## Watch Demo
+[Take me to Demo Video](https://drive.google.com/file/d/1jEacMsLLSW7yvtL9eGQk5aaJ4yJunCRF/view?usp=drivesdk)
+
 
 ## Features
 
@@ -43,6 +59,15 @@ The app utilizes several key remote sensing techniques:
 - Google Maps API for visualization
 - Earth Engine API for remote sensing calculations
 - Real-time data processing and analysis
+
+## 🧰 Tools & Technologies Used
+- **React Native** (via Expo) – Mobile app development  
+- **Google Maps API** – For map visualization and location services  
+- **Google Earth Engine** – Satellite image access and NDVI analysis  
+- **JavaScript + Node.js** – Core logic and environment  
+- **Remote Sensing Algorithms** – NDVI, Change Detection, Cloud Masking  
+- **Landsat/Sentinel Data** – Satellite imagery  
+- **Git & GitHub** – Version control
 
 ## Installation
 
