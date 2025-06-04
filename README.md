@@ -16,7 +16,10 @@ Illegal land occupation and unauthorized development on vacant or government-own
 - Generate alerts for authorities or stakeholders
 
 ## Watch Demo
-[Take me to Demo Video](https://drive.google.com/file/d/1jEacMsLLSW7yvtL9eGQk5aaJ4yJunCRF/view?usp=drivesdk)
+[Take me to Demo Video](https://drive.google.com/file/d/1jEacMsLLSW7yvtL9eGQk5aaJ4yJunCRF/view?usp=sharing)
+
+https://github.com/user-attachments/assets/15b3dcff-fef5-445a-8719-0b3fcef11790
+
 
 
 ## Features
