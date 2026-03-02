@@ -1,12 +1,6 @@
 
 # **Praahri App** – Smart Land Surveillance Using Satellite Imagery
 
-## 👥 Team Members
-**Team Zuck**  
-- Jatin Narayan  
-- Kishori Arora  
-- Chhaya Ameta
-
 ## ❓ Problem Statement / Objective
 Illegal land occupation and unauthorized development on vacant or government-owned plots is a growing concern. Manual inspection is costly and inefficient.  
 **Praahri** aims to provide an intelligent, scalable solution to:
